@@ -5,6 +5,7 @@ library(unmarked)
 library(MuMIn)
 library(ape)
 
+# my working directory
 setwd("/Users/13193/OneDrive - The University of South Dakota/Desktop/Chapter3/NMIXTURE/data")
 list.files()
 
