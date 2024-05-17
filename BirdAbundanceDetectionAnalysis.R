@@ -1,6 +1,5 @@
 # nmixture model to calcualte bird abaundnace and detectability
 
-# load required packages
 library(unmarked)
 library(MuMIn)
 library(ape)
